@@ -22,7 +22,7 @@
 var str = 'Lorem at';
 var strLength = str.length;
 
-let x = console.log(str.substring(0 , (strLength / 2));
+let x = console.log(str.substring(0 , (strLength / 2)));
  let y = console.log(str.substring(strLength/2));
 
  
