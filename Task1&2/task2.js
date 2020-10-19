@@ -19,13 +19,17 @@
 
 // console.log(transformedString('shawn men'))
 
-// var str = 'Lorem at';
-// var strLength = str.length;
+var str = 'Lorem at';
+var strLength = str.length;
 
-// console.log(str.substring(0 , (strLength / 2)));
-// console.log(str.substring(strLength/2));
+let x = console.log(str.substring(0 , (strLength / 2);
+ let y = console.log(str.substring(strLength/2));
 
-var str = "Hello world!";
-var res = str.substring(str.length);
+ 
 
-console.log(res)
+// const reverseString = (str) => {
+//     let strLength = str.length;
+//     return str.split('').reverse().join('');
+// };
+
+// console.log(reverseString('Lorem at!'));
